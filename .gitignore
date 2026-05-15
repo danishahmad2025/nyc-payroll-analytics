@@ -1,0 +1,16 @@
+# Ignore datasets
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+env/
+
+# OS files
+.DS_Store
